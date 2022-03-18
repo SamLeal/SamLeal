@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ##
 <div>
-  <p> - 👋 Hi. I'm Samuel a 19 years old studyng to become a developer.</p>
+  <p> - 👋 Hi. I'm Samuel a 19 years old studyng to become a developer. I'm graduating in Software Engineer at PUC Minas.</p>
   <p> - ✨I'm currently improving my skills in front-end, speacilly ReactJS.</p>
   <p> - 🤔 I’m learning, so if you see something wrong, feel free to contact me and help me improve it.</p>
   <p> -  ✔ </p>
