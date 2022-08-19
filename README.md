@@ -1,4 +1,4 @@
-### Hi,  I'm Samuel Leal. 👋
+### Oii, Meu nome é Samuel Leal.
 
 <!--
 **SamLeal/SamLeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 ##
 <div>
-  <p> - 👋 Hi. I'm Samuel a 19 years old studyng to become a developer. I'm graduating in Software Engineer at PUC Minas.</p>
-  <p> - ✨I'm currently improving my skills in front-end, speacilly ReactJS.</p>
-  <p> - 🤔 I’m learning, so if you see something wrong, feel free to contact me and help me improve it.</p>
-  <p> -  ✔ </p>
+  <p> - 👋Tenho 20 anos e estou graduando em Engenharia de software pela PucMnas.</p>
+  <p> - ✨Atualmente, moro em Belo Horizonte, Minas Gerais.</p>
+  <p> - 🤔 Começei estudando programação voltado ao Front-End, porém hoje tenho maior interesse em infraestrutura e BackEnd e tenho estudado mais essa parte.</p>
+  
+ <div align="center"><img align="center" height="150px" alt="Gatinho digitando no notebook." src="https://user-images.githubusercontent.com/73006552/185704981-cd217844-843a-4335-96cb-927a4d01d5ed.gif"></div>
   
   
 </div>
