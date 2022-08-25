@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div>
   <p> - 👋Tenho 20 anos e estou graduando em Engenharia de software pela PucMnas.</p>
   <p> - ✨Atualmente, moro em Belo Horizonte, Minas Gerais.</p>
-  <p> - 🤔 Começei estudando programação voltado ao Front-End, porém hoje tenho maior interesse em infraestrutura e BackEnd e tenho estudado mais essa parte.</p>
+  <p> - 🤔 Comecei estudando programação voltado ao Front-End, porém hoje tenho maior interesse em infraestrutura e BackEnd e tenho estudado mais essa parte.</p>
   
  <div align="center"><img align="center" height="150px" alt="Gatinho digitando no notebook." src="https://user-images.githubusercontent.com/73006552/185704981-cd217844-843a-4335-96cb-927a4d01d5ed.gif"></div>
   
