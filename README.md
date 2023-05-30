@@ -5,7 +5,7 @@
 
 ### :mega:&nbsp;About me
 
- &nbsp;&nbsp;&nbsp; :hourglass_flowing_sand:&nbsp;20 years.\
+ &nbsp;&nbsp;&nbsp; :hourglass_flowing_sand:&nbsp;21 years.\
  &nbsp;&nbsp;&nbsp; 🌎&nbsp;Belo Horizonte, Minas Gerais, Brazil.\
  &nbsp;&nbsp;&nbsp; :mortar_board:&nbsp;Software Engineering student, PUC Minas.\
  &nbsp;&nbsp;&nbsp; :pushpin:&nbsp;Currently learning java and studying to become a DevOps. \
