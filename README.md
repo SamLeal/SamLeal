@@ -8,7 +8,7 @@
  &nbsp;&nbsp;&nbsp; :hourglass_flowing_sand:&nbsp;21 years.\
  &nbsp;&nbsp;&nbsp; 🌎&nbsp;Belo Horizonte, Minas Gerais, Brazil.\
  &nbsp;&nbsp;&nbsp; :mortar_board:&nbsp;Software Engineering student, PUC Minas.\
- &nbsp;&nbsp;&nbsp; :pushpin:&nbsp;Currently learning java and studying to become a DevOps. \
+ &nbsp;&nbsp;&nbsp; :pushpin:&nbsp;Currently learning Java. \
 &nbsp;&nbsp;&nbsp; 🎮&nbsp;Love for games and music.
 
 <hr/>
@@ -18,6 +18,7 @@
   
 <br/>
 
+![Swift](https://img.shields.io/badge/SWIFT-000000.svg?&style=flat&logo=swift&logoColor=blue)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
@@ -36,12 +37,14 @@
 <details>
   <summary><b>:green_book: &nbsp;Willing to learn</b></summary>
   <br/>
-  
+ 
  ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
  ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
  ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
  ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+ ![C#](https://img.shields.io/badge/-326CE5.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
+ ![C#](https://img.shields.io/badge/-326CE5.svg?&style=flat&logo=dotnet&logoColor=white)&nbsp;
  </details>
 
 <details>
